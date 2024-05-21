@@ -20,9 +20,11 @@ Environment:
 - Python 3.8.16
 - torch 1.13.0+torchaudio 0.13.0+torchvision 0.14.0
 - or: torch 1.12.1+cu113+torchaudio 0.12.1+cu113+torchvision 0.13.1+cu113
+- 
 HBB:
 - mmcv-full 1.7.1
 - mmdet 2.26.0
+- 
 OBB:
 - mmcv-full                     1.7.1
 - mmdet                         2.28.2
